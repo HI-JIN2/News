@@ -10,6 +10,7 @@
 |Category|Technology|
 |---|---|
 |Language|Kotlin|
+|JDK|JDK 17|
 |Architecture|Clean Architecture|
 |Design Patterns|MVVM, MVI|
 |UI Framework|Jetpack Compose
