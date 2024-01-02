@@ -1,12 +1,12 @@
 # 📰 News App
-- 주요기능
+## ⚙️ 주요기능
   - 둘러보기
     - 상세보기
   - 검색하기
   - 북마크 
 
 
-# 🐬 What I using  
+## 🐬 What I using  
 |Category|Technology|
 |---|---|
 |Language|Kotlin|
